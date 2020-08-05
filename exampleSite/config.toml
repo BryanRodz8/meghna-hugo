@@ -25,27 +25,27 @@ name = "About"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "services"
+name = "Apps"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "Sponsors"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "team"
+name = "World"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "pricing"
+name = "Teams"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "blog"
+name = "Events"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "contact"
+name = "Merchandise"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"

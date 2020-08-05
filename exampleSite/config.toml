@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "MLB&Co."
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
@@ -21,36 +21,36 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "about"
 weight = 1
 [[menu.main]]
 URL = "services"
-name = "Apps"
+name = "services"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "Sponsors"
+name = "portfolio"
 weight = 3
 [[menu.main]]
 URL = "team"
-name = "World"
+name = "team"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "Teams"
+name = "pricing"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "Events"
+name = "blog"
 weight = 6
 [[menu.main]]
 URL = "contact"
-name = "Merchandise"
+name = "contact"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
-weight = 1
+weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = "about"
-name = "about"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "services"
@@ -50,7 +50,7 @@ weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
-weight = 8
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

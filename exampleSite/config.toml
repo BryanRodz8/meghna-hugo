@@ -20,28 +20,28 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-URL = "about"
-name = "about"
-weight = 1
-[[menu.main]]
 URL = "services"
-name = "services"
+name = "Apps"
 weight = 2
 [[menu.main]]
 URL = "portfolio"
-name = "portfolio"
+name = "Sponsors"
 weight = 3
 [[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.main]]
 URL = "team"
-name = "team"
+name = "Teams"
 weight = 4
 [[menu.main]]
 URL = "pricing"
-name = "pricing"
+name = "Events"
 weight = 5
 [[menu.main]]
 URL = "blog"
-name = "blog"
+name = "Merchandise"
 weight = 6
 [[menu.main]]
 URL = "contact"
@@ -50,7 +50,7 @@ weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"
 name = "themefisher"
-weight = 8
+weight = 1
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

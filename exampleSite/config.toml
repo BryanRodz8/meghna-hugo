@@ -48,10 +48,6 @@ URL = "about"
 name = "About"
 weight = 1
 [[menu.static]]
-URL = "https://themefisher.com/"
-name = "About"
-weight = 1
-[[menu.static]]
 name = "Apps"
 weight = 2
 [[menu.static]]

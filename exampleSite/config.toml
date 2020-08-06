@@ -20,6 +20,9 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.static]]
+name = "Apps"
+weight = 1
+[[menu.static]]
 name = "Contact"
 weight = 6
 [[menu.static]]

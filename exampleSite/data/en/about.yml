@@ -21,4 +21,7 @@ about:
 menu:
   main:
     name: Apps
-    weight: 1
+    weight: "1"
+  static:
+  - name: Apps
+    weight: ''

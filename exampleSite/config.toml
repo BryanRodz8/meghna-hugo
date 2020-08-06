@@ -21,7 +21,7 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = ""
-name = ""
+name = "Sponsors"
 weight = ""
 [[menu.main]]
 URL = "contact"

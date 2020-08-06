@@ -3,7 +3,7 @@ title: COVID-19 Face masks
 date: 2018-09-12T14:51:12.000+06:00
 author: Bryan Rodriguez
 image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
+image: "/images/960x0.jpg"
 description: This is meta description
 
 ---

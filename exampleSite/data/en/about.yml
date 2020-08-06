@@ -18,3 +18,7 @@ about:
     content: 'Being one of the most played sports in the world Major League Baseball
       is determined to make this a global game and make many dreams come true as we
       keep expanding the sport and the league across the globe. '
+menu:
+  main:
+    name: Apps
+    weight: 1

@@ -19,22 +19,24 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = ""
-name = "Events"
-weight = ""
-[[menu.main]]
-URL = ""
-name = "Sponsors"
-weight = ""
-[[menu.main]]
-URL = "contact"
-name = "Apps"
+[[menu.static]]
+name = "Contact"
 weight = 7
 [[menu.static]]
-URL = "https://themefisher.com/"
-name = "themefisher"
-weight = 8
+name = "Merchandise"
+weight = 6
+[[menu.static]]
+name = "Events"
+weight = 5
+[[menu.static]]
+name = "Teams"
+weight = 4
+[[menu.static]]
+name = "Sponsors"
+weight = 3
+[[menu.static]]
+name = "Apps"
+weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

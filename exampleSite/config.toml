@@ -21,6 +21,10 @@ languageName = "Fr"
 weight = 2
 [[menu.main]]
 URL = ""
+name = "Events"
+weight = ""
+[[menu.main]]
+URL = ""
 name = "Sponsors"
 weight = ""
 [[menu.main]]

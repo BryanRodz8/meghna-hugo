@@ -26,8 +26,6 @@ sections:
   match: "**/*"
   templates:
   - post
-- type: heading
-  label: MLB.TV
 - type: directory
   path: exampleSite/content/english/author
   label: Author (en)

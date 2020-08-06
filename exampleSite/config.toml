@@ -20,8 +20,12 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
+URL = ""
+name = ""
+weight = ""
+[[menu.main]]
 URL = "contact"
-name = "MLS"
+name = "Apps"
 weight = 7
 [[menu.static]]
 URL = "https://themefisher.com/"

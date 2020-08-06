@@ -23,5 +23,7 @@ menu:
     name: Apps
     weight: "1"
   static:
-  - name: Apps
-    weight: ''
+  - - name
+    - Sponsors
+  - - weight
+    - 2

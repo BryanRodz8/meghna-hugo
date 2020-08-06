@@ -19,21 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.static]]
-name = "Contact"
-weight = 6
-[[menu.static]]
-name = "Merchandise"
-weight = 5
-[[menu.static]]
-name = "Events"
-weight = 4
-[[menu.static]]
-name = "Teams"
-weight = 3
-[[menu.static]]
-name = "Sponsors"
-weight = 2
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"

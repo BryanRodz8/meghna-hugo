@@ -21,21 +21,18 @@ languageName = "Fr"
 weight = 2
 [[menu.static]]
 name = "Contact"
-weight = 7
-[[menu.static]]
-name = "Merchandise"
 weight = 6
 [[menu.static]]
-name = "Events"
+name = "Merchandise"
 weight = 5
 [[menu.static]]
-name = "Teams"
+name = "Events"
 weight = 4
 [[menu.static]]
-name = "Sponsors"
+name = "Teams"
 weight = 3
 [[menu.static]]
-name = "Apps"
+name = "Sponsors"
 weight = 2
 [params]
 author = "Themefisher"

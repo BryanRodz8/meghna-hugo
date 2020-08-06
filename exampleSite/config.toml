@@ -19,34 +19,6 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[[menu.main]]
-URL = "portfolio"
-name = "Sponsors"
-weight = 3
-[[menu.main]]
-URL = "team"
-name = "Teams"
-weight = 4
-[[menu.main]]
-URL = "pricing"
-name = "Events"
-weight = 5
-[[menu.main]]
-URL = "blog"
-name = "Merchandise"
-weight = 6
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
-[[menu.main]]
-URL = "services"
-name = "Apps"
-weight = 2
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
 [[menu.static]]
 name = "Apps"
 weight = 2
